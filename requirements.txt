@@ -1,3 +1,0 @@
-flask>=2.0.0
-httpx>=0.24.0
-fake-useragent>=1.4.0
